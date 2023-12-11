@@ -1,4 +1,4 @@
-from car import Car
+from src.car import Car
 
 class Serviceable(Car):
     def __init__(self):

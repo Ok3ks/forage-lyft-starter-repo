@@ -1,6 +1,5 @@
 from src.battery import NubbinBattery,SpindlerBattery
 
-
 import unittest
 from datetime import datetime
 
